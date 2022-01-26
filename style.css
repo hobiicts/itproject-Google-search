@@ -1,4 +1,66 @@
-p{
 
-  display: inline-block;
+@import url(https://fonts.googleapis.com/css?family=Tajawal);
+/* ايقونة كوكل */
+
+*{
+  
+}
+#gimage{
+  justify-content: center;   
+ display:flex;
+ margin:310px;
+ padding: 2px;
+ 
+ }
+ /* شريط البحث */
+ #s1{
+  justify-content: center; 
+ display: flex;
+ margin: -250px;
+ padding: 2px;
+ 
+ }
+
+ #search{
+
+padding: 10px;
+border-radius: 25px;
+ }
+
+/* ايقونة المايك الموجودة في شريط البحث */
+#mic{
+
+height: 30px;
+width: 30px;
+position: relative;
+top: 3px;
+right: 43px;
+ }
+
+ #blank{
+   visibility: hidden;
+ }
+
+ #bs{
+display: flex;
+justify-content: center;
+position: relative;
+bottom: -265px;
+ }
+
+#gs{
+background-color: white;
+border-radius: 5px;
+padding: 8px 44px;
+color: #000;
+border-color: white;
+}
+
+#lucky{
+  background-color: white;
+  border-radius: 5px;
+  padding: 8px 44px;
+  color: #000;
+  
+
 }
