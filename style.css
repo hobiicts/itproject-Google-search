@@ -10,7 +10,8 @@
  display:flex;
  margin:310px;
  padding: 2px;
- 
+    margin-left: auto;
+    margin-right: auto;
  }
  /* شريط البحث */
  #s1{
